@@ -1,0 +1,136 @@
+Petrobras: Atualização de preço e dados de produção e vendas 3T23
+A Petrobras apresentou ontem (26) seus resultados operacionais do 3T23, com
+números robustos em exploração e produção e em refino, apesar de dados menos
+animadores vindo do segmento de gás & energia. Houve aumento de 9,2% t/t na
+produção média de óleo, gás e LGN, além de elevação do fator de utilização das
+refinarias, de 93% para 96%, e crescimento de 5,7% t/t no volume de vendas para
+o mercado interno. Com tal resultado operacional, mantemos nossa expectativa de
+um excelente resultado financeiro no 3T23, que deve ser divulgado no dia 09/11
+(quinta-feira). Neste relatório, comentamos alguns dos indicadores apresentados e
+introduzimos nosso novo preço-alvo de R$ 42,00 para 2024.
+A companhia deve divulgar no próximo mês seu novo plano de negócios para o
+período 2024-2028. A expectativa é de que o plano esteja mais alinhado com
+outras petroleiras globais, que vêm aumentando o volume de Capex destinado à
+diversificação da atuação, com mais projetos ligados a segmentos de baixa pegada
+de carbono. A companhia já indicou que tais investimentos devem estar limitados a
+uma faixa entre 6% e 15%, o que entendemos como positivo, já que garante que o
+investimento principal seguirá sendo o core business, a exploração no pré-sal, que
+tem condições excepcionais de baixo custo de extração e crescimento de volumes
+com a agenda de novas plataformas previstas.
+Petróleo. Os cortes na oferta promovidos pela OPEP+ ao longo do ano ajudaram a
+sustentar os preços da commodity, apesar de uma demanda global mais fraca do
+que o esperado e de uma elevação nos estoques globais. A expectativa para os
+preços em 2024 está ligada ao aumento na demanda chinesa, bem como aos
+volumes ofertados pela Arábia Saudita e Rússia, que promovem no momento uma
+redução voluntária adicional às suas respectivas cotas, como forma de compensar,
+ainda que parcialmente, a demanda global reduzida.
+Em nossa visão, os patamares atuais de preço ainda não antecipam uma eventual
+escalada dos recentes conflitos no Oriente Médio. Incertezas envolvendo a commodity
+se elevam porque, na percepção do mercado, apesar de Israel não ser um produtor
+relevante de petróleo, o eventual envolvimento de outros países próximos, como
+Líbano e Irã, poderia suscitar um reforço das sanções americanas ao petróleo iraniano,
+o que retiraria uma oferta relevante de petróleo do mercado e poderia jogar os preços
+para os três dígitos novamente. Entendemos não ser esse o cenário base, mas é algo
+que deve estar no radar, dado que o sul do Líbano e o norte de Israel já vêm passando
+por episódios diários envolvendo bombardeios locais. Os efeitos no mercado de
+petróleo ocorreriam porque, apesar de a retirada do petróleo iraniano poder ser
+potencialmente compensada pela Arábia Saudita, que atualmente vem entregando
+volumes reduzidos, acreditamos que não seria vantajoso para os sauditas promover
+alguma mudança em sua oferta antes de uma disparada da commodity para pelo
+menos US$ 110 ou US$ 120. A partir destes patamares faria mais sentido para os
+sauditas, que representam um dos principais blocos da OPEP+, interferirem na oferta,
+uma vez que os efeitos inflacionários globais poderiam levar a uma destruição da
+demanda, mas antes desses níveis seguiriam maximizando a receita. Nossa projeção de
+preços é de US$ 85,70 para 2023, US$ 87,10 para 2024 e US$ 80,50 para 2025, com um
+Brent de longo prazo em US$ 57,23/barril.
+Mudanças recentes no estatuto. Na última semana, a Petrobras anunciou um conjunto
+de mudanças em seu estatuto, a ser votado em assembleia. O tema foi muito mal-
+recebido pelo mercado, com a companhia perdendo mais de R$ 30 bilhões em valor
+de mercado após a divulgação da proposta. Porém, em nosso entendimento, a reação
+negativa do mercado foi superior aos impactos práticos em sua governança atual. Veja
+aqui o comunicado na íntegra e aqui a explicação posterior detalhando as mudanças.
+Em nossa análise, dentro do atual escopo da lei das estatais (13.303/2016), a proposta
+tem efeito neutro, pois a companhia permanece obrigada a seguir a lei
+independentemente do seu estatuto. Logo, a retirada do artigo 21 do Estatuto Social,
+que reproduzia exatamente o conteúdo de cada um dos incisos do artigo 17 da
+referida lei, só será impactada em caso de alteração legislativa. E aí está a questão
+central da preocupação dos investidores em relação à proposta de mudança: esse
+trecho da lei está sendo questionado judicialmente (pelo STF), logo, ainda é passível
+de alterações. Nesse contexto, entendemos que a companhia poderia ter aguardado o
+desfecho do processo em curso antes de realizar tal alteração. Caso a lei seja mantida
+integralmente, o efeito da proposta de alterações no estatuto seria nulo para a
+Petrobras (já que ela deve garantir aderência à Lei das Estatais em sua governança
+corporativa, conforme estabelecido em seu artigo 21). Caso a alteração seja de fato
+realizada e a companhia assim propusesse o ajuste, o questionamento dos investidores,
+especialmente dos acionistas minoritários, seria pela redução dos atuais requisitos e
+aderência às melhores práticas de mercado, ainda que a companhia seguisse
+conformidade com uma eventual mudança na lei. Enquanto esse processo estiver em
+curso, entendemos que os investidores aplicarão um prêmio de risco maior à
+companhia, fator que por ora segue compensado pelo forte desempenho econômico-
+financeiro e operacional.
+Valuation
+Revisamos nossas estimativas para a Petrobras e introduzimos nosso novo preço-
+alvo para 2024 de R$ 42,00 para ambas PETR4 e PETR3. Nossa avaliação deriva de
+
+um método de Fluxo de Caixa Descontado (DCF) de dez anos, assumindo um WACC
+em 13,1% e um crescimento na perpetuidade (g) de 2,0%.
+Nossa tese de investimento para a companhia se baseia em: (i) perspectivas de
+aumento da produção com a entrada de novos sistemas nos próximos anos; (ii)
+baixos custos de extração (lifting cost), principalmente nos campos do pré-sal; e
+(iii) boas perspectivas de geração de caixa e distribuição de dividendos.
+Os riscos de nossa tese de investimento incluem, entre outros: (i) volatilidade nos
+preços do petróleo; (ii) mudanças na política de preços da empresa; (iii) risco de
+execução de projetos em andamento e futuros; (iv) resultado desfavorável de
+discussões judiciais, inclusive tributárias e trabalhistas; e (v) volatilidade cambial.
+Os múltiplos da companhia seguem descontados, com o EV/EBITDA 2024e em 2,8x,
+ante pares negociados a 4,1x, um desconto relativo de 32% que ajuda a sustentar a
+manutenção da recomendação de compra. O preço/lucro tem um desconto
+relativo ainda maior, com múltiplo em 4,5x, e pares negociados a 7,8x (-43%). Esse
+patamar de desconto reflete a percepção de riscos, que podem envolver, além dos
+acima descritos, eventuais mudanças em governança, o foco dos investimentos
+futuros (com eventual elevação desproporcional em projetos com retornos mais
+baixos), além de receio dos investidores relacionados à manutenção de alguns dos
+pilares que hoje garantem condições de elevada rentabilidade, como novas
+alterações na política de preços ou mesmo mudanças tributárias ou dos royalties
+vigentes. Nosso entendimento é o de que, a despeito da materialidade de alguns
+desses riscos, o modelo atual de negócios, focado no pré-sal, mantém uma
+perspectiva de crescimento na produção com baixos custos, o que deve seguir
+resultando em elevado volume de geração de caixa, e boa distribuição de
+dividendos. Até que tal realidade tenha alguma mudança concreta, vemos a
+companhia sendo negociada com múltiplos atrativos e boas perspectivas
+operacionais/financeiras, o que nos parecem bons motivos para seguir otimistas
+com a companhia.
+Dividendos. Em nosso modelo, consideramos uma distribuição de 41,4% do lucro
+líquido 2024E (que estimamos em R$ 136,6 bilhões), considerando a fórmula atual
+de distribuição de 45% do fluxo de caixa livre (FCL). Isso deve resultar em uma
+distribuição de R$ 3,84 por ação para 2023 (yield de 10%) e R$ 3,97 por ação para
+2024 (yield de 10,4%). Tal projeção não considera uma eventual distribuição
+extraordinária, que pode ser impactada pela criação da reserva estatutária a ser
+aprovada em AGE. Esse volume de dividendos nos parece manter um yield atrativo
+para remunerar os investidores, mas também suficiente para fazer frente ao nível
+de investimentos previsto. Vale lembrar que a reserva estatutária também poderá
+ser utilizada para fazer recompra de ações, o que eleva o retorno para os acionistas.
+Produção & Vendas 3T23
+O resultado operacional do trimestre surpreendeu positivamente, com aumento de
+9,6% t/t na produção média de óleo, LGN e gás natural, elevação do fator de utilização
+das refinarias, de 93% para 96%, e crescimento de 5,7% t/t no volume de vendas para
+o mercado interno.
+A performance dos campos do pós-sal foi boa, com crescimento de 19,1%, devido ao
+ramp up da plataforma Ana Nery e menos paradas para manutenção. Na comparação
+anual, a queda de 5,1% na produção do pós-sal é explicada pelo desinvestimento em
+Albacora Leste, além do declínio natural dos campos. A continuidade do ramp up da
+plataforma P-71, na bacia de Campos, colaborou para o aumento de 9,6% t/t na
+produção do pré-sal, que respondeu por 81% da produção de óleo do trimestre.
+Em relação às vendas, o crescimento de 5,7% t/t foi puxado pelo bom desempenho
+do diesel (+11% t/t), com a sazonalidade de consumo do 3T pela fase de plantio da
+safra de grãos, além do aumento da atividade industrial. As vendas de gasolina, apesar
+de terem caído 4,1% t/t, com perda de share para o etanol, acumulam nos 9M23 o
+melhor resultado dos últimos seis anos.
+Já no segmento de energia, vemos números em declínio, com redução de 4% t/t nas
+vendas de gás natural e redução de 18,2% t/t nas vendas de energia elétrica, com
+demanda principalmente oriunda de vapor. O volume de disponibilidade térmica em
+leilão se manteve estável t/t.
+Em suma, os dados operacionais do trimestre surpreenderam positivamente, sinalizando
+que as mudanças na estratégia comercial estão gerando o resultado esperado, ou seja,
+maior participação de mercado e otimização do uso da capacidade de refino, o que
+deve se traduzir em bons números no 3T23.

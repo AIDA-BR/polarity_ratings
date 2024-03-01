@@ -1,0 +1,22 @@
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+#resposta-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.texto-com-quebras {
+    white-space: pre-line;
+}

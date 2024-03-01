@@ -1,0 +1,16 @@
+{
+    "basic": 
+    {
+        "description": "Template básico parametrizado para geração de análises de fatos relevantes",
+        "prompt_com_intro": "\n\nAbaixo está uma instrução que descreve uma tarefa, incluindo um fato relevante disponibilizado por uma empresa. Escreva uma resposta que atenda ao pedido. \n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Resposta:\n\n",
+        "prompt_sem_intro": "\n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Resposta:\n\n",
+        "prompt_com_intro_demo": "\n\nAbaixo está uma instrução que descreve uma tarefa, incluindo um fato relevante disponibilizado por uma empresa e um exemplo da tarefa. Escreva uma resposta que atenda ao pedido. \n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Exemplo de resposta anterior:\n{exemplo}\n\n### Resposta:\n\n",
+        "prompt_sem_intro_demo": "\n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Exemplo de resposta anterior:\n{exemplo}\n\n### Resposta:\n\n",
+        "prompt_com_intro_contexto": "\n\nAbaixo está uma instrução que descreve uma tarefa, incluindo um fato relevante disponibilizado por uma empresa. Além do fato relevante, também é fornecido um contexto para ajudar no desenvolvimento da tarefa instruída. Escreva uma resposta que atenda ao pedido. \n\n### Contexto:\n{contexto}\n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Resposta:\n\n",
+        "prompt_sem_intro_contexto": "\n\n### Contexto:\n{contexto}\n\n### Instrução:\n{instruction} {tema}\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Resposta:\n\n",
+        "prompt_sem_intro_contexto_formato": "\n\n### Contexto:\n{contexto}\n\n### Instrução:\n{instruction} {tema}\n\n### Formato:\n{formato}\n\n\n\n### Empresa:\n{empresa}\n\n### Fato Relevante:\n{fato}\n\n### Resposta:\n\n",
+        "prompt_sem_intro_contexto_formato_en": "\n\n### Context:\n{contexto}\n\n### Instruction:\n{instruction} {tema}\n\n### Format:\n{formato}\n\n\n\n### Company:\n{empresa}\n\n### Material Fact:\n{fato}\n\n### Response:\n\n",
+        "response_split": "### Resposta:",
+        "response_split_en": "### Response:"  
+    }
+}

@@ -1,0 +1,13 @@
+{ 
+    "casa":
+    {
+        "empiricus": "<Título>\n<Sentença que Resuma a análise>\n<Corpo da análise>\n<Recomendação>",
+        "zacks": "<Title>\n<Body of the Analysis>\n<Recomendation>"
+    },
+
+    "other_type":
+    {
+        "other_subtype1": " XXXXX ",
+        "other_subtype2": "YYYY "
+    }
+}
