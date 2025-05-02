@@ -1,0 +1,8 @@
+{
+    "prompts": {
+        "prompt_positive_negative_investor_en": "Act as an investor in the financial market. You are interested in staying informed about the market when making investment choices. Classify the sentiment of the following headline as either 'Positive' or 'Negative': ",
+        "prompt_positive_negative_investor_context_conservative_en": "Act as an investor with a conservative risk tolerance. You are interested in staying informed about the market when making investment choices. Classify the sentiment of the following headline as either 'Positive' or 'Negative': ",
+        "prompt_positive_negative_investor_context_moderate_en": "Act as an investor with a moderate risk tolerance. You are interested in staying informed about the market when making investment choices. Classify the sentiment of the following headline as either 'Positive' or 'Negative': ",
+        "prompt_positive_negative_investor_context_aggressive_en": "Act as an investor with an aggressive risk tolerance. You are interested in staying informed about the market when making investment choices. Classify the sentiment of the following headline as either 'Positive' or 'Negative': "
+    }
+}
